@@ -1,5 +1,5 @@
 # 6 практическая, задание 3
-``
+```
 public class Main {
     interface Nameable {
         String getName();
